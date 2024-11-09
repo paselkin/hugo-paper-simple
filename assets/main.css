@@ -707,8 +707,8 @@ pre {
   /* font-weight: 500; */
   /* font-style: italic; */
   color: var(--tw-prose-quotes);
-  border-inline-start-width: 0.25rem;
-  border-inline-start-color: var(--tw-prose-quote-borders);
+  /* border-inline-start-width: 0.25rem; */
+  /* border-inline-start-color: var(--tw-prose-quote-borders); */
   /* quotes: "\201C""\201D""\2018""\2019"; */
   margin-top: 1.6em;
   margin-bottom: 1.6em;
